@@ -16,7 +16,7 @@ namespace GraZaDuzoZaMalo
         {
             InitializeComponent();
         }
-        int liczba_prob = 0, losowana = 0,czas=0;  //jebac disa kurwe zwisa
+        int liczba_prob = 0, losowana = 0,czas=0;
         private int Losuj(int min, int max)
         {
             if (min > max)
