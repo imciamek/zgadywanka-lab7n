@@ -1,6 +1,6 @@
 ---
 Autor: M. Oleksy
-Data: 2019-06-11
+Data: 2019-06-30
 ---
 
 # zgadywanka-lab7n
