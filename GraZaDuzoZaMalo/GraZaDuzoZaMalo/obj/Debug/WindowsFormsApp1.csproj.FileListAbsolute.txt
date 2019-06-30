@@ -8,3 +8,13 @@ C:\Users\Ciamek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\Ciamek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Ciamek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Ciamek\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GraZaDuzoZaMalo.exe.config
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GraZaDuzoZaMalo.exe
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GraZaDuzoZaMalo.pdb
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GraZaDuzoZaMalo.Properties.Resources.resources
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GraZaDuzoZaMalo.exe
+C:\Users\Damian\zgadywanka-work\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GraZaDuzoZaMalo.pdb
